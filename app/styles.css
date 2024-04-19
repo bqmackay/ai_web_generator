@@ -1,0 +1,13 @@
+/* Add CSS styles for highlighted boxes */
+
+.correct {
+  background-color: lightgreen;
+}
+
+.incorrect {
+  background-color: lightcoral;
+}
+
+.not-in-word {
+  background-color: lightblue;
+}
